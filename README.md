@@ -24,15 +24,45 @@ AWS Cloud Architect focused on secure, scalable, resilient, and automated enterp
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20CERTIFIED-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<a href="YOUR_AWS_SAA_CREDLY_LINK">
+<img src="./assets/certs/aws-saa.png" width="160"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AWS%20CERTIFIED-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827"/>
+<b>AWS Solutions Architect Associate</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="YOUR_AWS_DEVOPS_CREDLY_LINK">
+<img src="./assets/certs/aws-devops-pro.png" width="160"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KUBERNETES-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=111827"/>
+<b>AWS DevOps Engineer Professional</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="YOUR_CKA_LINK">
+<img src="./assets/certs/cka.png" width="160"/>
+</a>
+
+<br><br>
+
+<b>Certified Kubernetes Administrator</b>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -60,26 +90,13 @@ Expertise:
 
 <div align="center">
 
-### Cloud & Platform
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform"/>
-
-<br><br>
-
-### DevOps & Automation
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash"/>
-
-<br><br>
-
-### Systems & Tooling
-<img src="https://skillicons.dev/icons?i=linux,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,ansible,linux,git"/>
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
@@ -111,15 +128,13 @@ Expertise:
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyvarun&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -147,20 +162,12 @@ Expertise:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ☁️ Engineering resilient cloud platforms with confidence.
 
 </div>
