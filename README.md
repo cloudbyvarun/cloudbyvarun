@@ -24,48 +24,31 @@ AWS Cloud Architect focused on designing secure, scalable, resilient, and automa
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
 <a href="YOUR_AWS_SAA_CREDLY_LINK">
-  <img src="https://images.credly.com/size/340x340/images/684d08e5-9d94-4ff1-8b79-815164728d8c/image.png" width="140"/>
+  <img src="https://images.credly.com/size/340x340/images/684d08e5-9d94-4ff1-8b79-815164728d8c/image.png" width="150" alt="AWS Solutions Architect Associate"/>
 </a>
 
-<br><br>
-
-<b>AWS Solutions Architect</b><br>
-Associate
-
-</td>
-
-<td align="center" width="33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_AWS_DEVOPS_CREDLY_LINK">
-  <img src="https://images.credly.com/size/340x340/images/eea11cba-2e92-4b5d-bad8-1e67d3c83f7f/image.png" width="140"/>
+  <img src="https://images.credly.com/size/340x340/images/eea11cba-2e92-4b5d-bad8-1e67d3c83f7f/image.png" width="150" alt="AWS DevOps Engineer Professional"/>
 </a>
 
-<br><br>
-
-<b>AWS DevOps Engineer</b><br>
-Professional
-
-</td>
-
-<td align="center" width="33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_CKA_LINK">
-  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/cka-color.png" width="140"/>
+  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/cka-color.png" width="150" alt="Certified Kubernetes Administrator"/>
 </a>
 
 <br><br>
 
-<b>Certified Kubernetes</b><br>
-Administrator
+<b>AWS Solutions Architect Associate</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</td>
-</tr>
-</table>
+<b>AWS DevOps Engineer Professional</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Certified Kubernetes Administrator</b>
 
 </div>
 
@@ -98,7 +81,7 @@ Expertise:
 
 <br><br>
 
-### Automation & DevOps
+### DevOps & Automation
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash"/>
 
 <br><br>
@@ -120,14 +103,12 @@ Expertise:
 
 ### ☁️ AWS Multi-Account Landing Zone
 
-Enterprise cloud foundation with:
-
 ✔ AWS Organizations  
-✔ SCP guardrails  
-✔ IAM governance  
-✔ Shared services  
+✔ SCP governance  
+✔ IAM guardrails  
 ✔ Centralized logging  
-✔ Security baseline controls  
+✔ Shared services  
+✔ Security controls  
 
 </td>
 
@@ -135,14 +116,12 @@ Enterprise cloud foundation with:
 
 ### 🏗 Terraform Infrastructure Automation
 
-Reusable IaC modules for:
-
 ✔ VPC networking  
 ✔ EC2 deployments  
-✔ ALB architecture  
+✔ ALB setup  
 ✔ Auto Scaling  
 ✔ Route53  
-✔ IAM / RDS provisioning  
+✔ IAM / RDS  
 
 </td>
 </tr>
