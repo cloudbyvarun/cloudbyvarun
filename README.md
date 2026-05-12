@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="AWS Cloud Architect Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Varun&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20☁️%20|%20DevOps%20|%20Platform%20Engineering&descAlignY=58"/>
 
-<br><br>
+<br>
 
-# ☁️ Varun
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence"/>
 
-### AWS Cloud Architect | DevOps | Platform Engineering
+</div>
 
-<p>
-Designing secure, scalable, and resilient cloud platforms.
-</p>
+---
+
+<div align="center">
+
+# ☁️ Building Cloud Platforms That Scale
+
+AWS Cloud Architect focused on secure, scalable, resilient, and automated enterprise cloud infrastructure.
 
 </div>
 
@@ -25,7 +29,7 @@ Designing secure, scalable, and resilient cloud platforms.
 <td align="center" width="33%">
 
 <a href="YOUR_AWS_SAA_CREDLY_LINK">
-  <img src="./assets/aws-saa.png" width="160" alt="AWS Solutions Architect Associate"/>
+<img src="./assets/certs/aws-saa.png" width="160"/>
 </a>
 
 <br><br>
@@ -37,7 +41,7 @@ Designing secure, scalable, and resilient cloud platforms.
 <td align="center" width="33%">
 
 <a href="YOUR_AWS_DEVOPS_CREDLY_LINK">
-  <img src="./assets/aws-devops-pro.png" width="160" alt="AWS DevOps Engineer Professional"/>
+<img src="./assets/certs/aws-devops-pro.png" width="160"/>
 </a>
 
 <br><br>
@@ -49,7 +53,7 @@ Designing secure, scalable, and resilient cloud platforms.
 <td align="center" width="33%">
 
 <a href="YOUR_CKA_LINK">
-  <img src="./assets/cka.png" width="160" alt="Certified Kubernetes Administrator"/>
+<img src="./assets/certs/cka.png" width="160"/>
 </a>
 
 <br><br>
@@ -72,11 +76,11 @@ Role: AWS Cloud Architect
 Expertise:
   - AWS Cloud Architecture
   - Multi-Account Governance
-  - Landing Zone Architecture
+  - Landing Zone Design
   - Terraform Infrastructure as Code
   - Kubernetes Platform Engineering
   - CI/CD Automation
-  - Security & Compliance
+  - Cloud Security
   - Operational Excellence
 ```
 
@@ -86,7 +90,7 @@ Expertise:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,ansible,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,ansible,linux,git"/>
 
 </div>
 
@@ -100,14 +104,12 @@ Expertise:
 
 ### ☁️ AWS Multi-Account Landing Zone
 
-Enterprise cloud foundation including:
-
 ✔ AWS Organizations  
 ✔ SCP governance  
 ✔ IAM guardrails  
-✔ Shared services  
 ✔ Centralized logging  
-✔ Security baseline controls  
+✔ Shared services  
+✔ Security controls  
 
 </td>
 
@@ -115,14 +117,12 @@ Enterprise cloud foundation including:
 
 ### 🏗 Terraform Infrastructure Automation
 
-Reusable infrastructure modules:
-
-✔ VPC architecture  
-✔ EC2 provisioning  
+✔ VPC networking  
+✔ EC2 deployments  
 ✔ ALB setup  
 ✔ Auto Scaling  
 ✔ Route53  
-✔ IAM / RDS automation  
+✔ IAM / RDS  
 
 </td>
 </tr>
@@ -134,9 +134,9 @@ Reusable infrastructure modules:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyvarun&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyvarun&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -146,7 +146,17 @@ Reusable infrastructure modules:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cloudbyvarun&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=cloudbyvarun&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudbyvarun&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -157,15 +167,7 @@ Reusable infrastructure modules:
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ☁️ Engineering cloud platforms that scale with confidence.
 
 </div>
