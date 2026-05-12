@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Varun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20☁️%20|%20DevOps%20|%20Platform%20Engineering&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Varun&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20☁️%20|%20DevOps%20|%20Platform%20Engineering&descAlignY=58"/>
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence" />
 
 </div>
 
@@ -14,9 +12,9 @@
 
 <div align="center">
 
-# ☁️ Cloud Architect | AWS | Kubernetes | Infrastructure Automation
+# ☁️ Building Cloud Platforms That Scale
 
-Building resilient, scalable, and secure cloud platforms with AWS-native and cloud-native technologies.
+AWS Cloud Architect focused on designing secure, scalable, resilient, and automated enterprise cloud infrastructure.
 
 </div>
 
@@ -26,11 +24,48 @@ Building resilient, scalable, and secure cloud platforms with AWS-native and clo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+<a href="YOUR_AWS_SAA_CREDLY_LINK">
+  <img src="https://images.credly.com/size/340x340/images/684d08e5-9d94-4ff1-8b79-815164728d8c/image.png" width="140"/>
+</a>
 
-<img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117"/>
+<br><br>
+
+<b>AWS Solutions Architect</b><br>
+Associate
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="YOUR_AWS_DEVOPS_CREDLY_LINK">
+  <img src="https://images.credly.com/size/340x340/images/eea11cba-2e92-4b5d-bad8-1e67d3c83f7f/image.png" width="140"/>
+</a>
+
+<br><br>
+
+<b>AWS DevOps Engineer</b><br>
+Professional
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="YOUR_CKA_LINK">
+  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/cka-color.png" width="140"/>
+</a>
+
+<br><br>
+
+<b>Certified Kubernetes</b><br>
+Administrator
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -40,26 +75,33 @@ Building resilient, scalable, and secure cloud platforms with AWS-native and clo
 
 ```yaml
 Role: AWS Cloud Architect
-Focus:
+
+Expertise:
   - AWS Cloud Architecture
-  - Multi-account governance
-  - Terraform Infrastructure as Code
+  - Multi-Account Governance
+  - Landing Zone Design
+  - Infrastructure as Code
   - Kubernetes Platform Engineering
   - CI/CD Automation
-  - Security & Operational Excellence
+  - Cloud Security
+  - Operational Excellence
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technology Stack
 
 <div align="center">
 
-### Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform"/>
+### Cloud & Platform
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform"/>
 
-### DevOps & Automation
+<br><br>
+
+### Automation & DevOps
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash"/>
+
+<br><br>
 
 ### Systems & Tooling
 <img src="https://skillicons.dev/icons?i=linux,git,github"/>
@@ -70,35 +112,43 @@ Focus:
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ AWS Multi-Account Landing Zone
-Enterprise cloud foundation architecture:
+
+Enterprise cloud foundation with:
 
 ✔ AWS Organizations  
-✔ SCP governance  
-✔ Centralized logging  
+✔ SCP guardrails  
+✔ IAM governance  
 ✔ Shared services  
+✔ Centralized logging  
 ✔ Security baseline controls  
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏗 Terraform Infrastructure Automation
-Reusable IaC architecture:
 
-✔ VPC  
-✔ EC2  
-✔ ALB  
+Reusable IaC modules for:
+
+✔ VPC networking  
+✔ EC2 deployments  
+✔ ALB architecture  
 ✔ Auto Scaling  
-✔ IAM / Route53 / RDS  
+✔ Route53  
+✔ IAM / RDS provisioning  
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -134,7 +184,7 @@ Reusable IaC architecture:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -146,8 +196,23 @@ Reusable IaC architecture:
 
 ---
 
+## 📌 Architecture Principles
+
 <div align="center">
 
-### ☁️ Engineering cloud platforms that scale with confidence.
+```text
+Build secure by default
+Automate everything repeatable
+Design for resilience and scale
+Prefer elegant simplicity
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ☁️ Engineering resilient cloud platforms with confidence.
 
 </div>
