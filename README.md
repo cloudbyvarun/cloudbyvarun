@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # ☁️ Building Cloud Platforms That Scale
 
-AWS Cloud Architect focused on designing secure, scalable, resilient, and automated enterprise cloud infrastructure.
+AWS Cloud Architect focused on secure, scalable, resilient, and automated enterprise cloud infrastructure.
 
 </div>
 
@@ -24,31 +24,15 @@ AWS Cloud Architect focused on designing secure, scalable, resilient, and automa
 
 <div align="center">
 
-<a href="YOUR_AWS_SAA_CREDLY_LINK">
-  <img src="https://images.credly.com/size/340x340/images/684d08e5-9d94-4ff1-8b79-815164728d8c/image.png" width="150" alt="AWS Solutions Architect Associate"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_AWS_DEVOPS_CREDLY_LINK">
-  <img src="https://images.credly.com/size/340x340/images/eea11cba-2e92-4b5d-bad8-1e67d3c83f7f/image.png" width="150" alt="AWS DevOps Engineer Professional"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_CKA_LINK">
-  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/cka-color.png" width="150" alt="Certified Kubernetes Administrator"/>
-</a>
+<img src="https://img.shields.io/badge/AWS%20CERTIFIED-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827"/>
 
 <br><br>
 
-<b>AWS Solutions Architect Associate</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS%20CERTIFIED-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827"/>
 
-<b>AWS DevOps Engineer Professional</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<b>Certified Kubernetes Administrator</b>
+<img src="https://img.shields.io/badge/KUBERNETES-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=111827"/>
 
 </div>
 
@@ -63,7 +47,7 @@ Expertise:
   - AWS Cloud Architecture
   - Multi-Account Governance
   - Landing Zone Design
-  - Infrastructure as Code
+  - Terraform Infrastructure as Code
   - Kubernetes Platform Engineering
   - CI/CD Automation
   - Cloud Security
@@ -170,21 +154,6 @@ Expertise:
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## 📌 Architecture Principles
-
-<div align="center">
-
-```text
-Build secure by default
-Automate everything repeatable
-Design for resilience and scale
-Prefer elegant simplicity
-```
 
 </div>
 
