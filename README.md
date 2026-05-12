@@ -1,32 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Varun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20|%20DevOps%20|%20Platform%20Engineering&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Varun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20☁️%20|%20DevOps%20|%20Platform%20Engineering&descAlignY=58"/>
 
 </div>
 
 <div align="center">
 
-# ☁️ Building Secure, Scalable Cloud Platforms
-
-AWS Cloud Architect focused on designing resilient cloud infrastructure, automation, Kubernetes platforms, and operational excellence.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Designing+Secure+Cloud+Platforms;AWS+Architecture+%7C+Terraform+%7C+Kubernetes;Automation+%7C+Scalability+%7C+Operational+Excellence" />
 
 </div>
 
 ---
 
-## 👨‍💼 Executive Summary
+<div align="center">
 
-Cloud Architect with strong expertise in AWS ecosystem, infrastructure automation, cloud-native platforms, and enterprise architecture design.
+# ☁️ Cloud Architect | AWS | Kubernetes | Infrastructure Automation
 
-Specialized in:
+Building resilient, scalable, and secure cloud platforms with AWS-native and cloud-native technologies.
 
-- ☁️ AWS Cloud Architecture
-- 🏗 Infrastructure as Code (Terraform)
-- ☸️ Kubernetes Platform Engineering
-- 🚀 CI/CD Automation
-- 🔐 Cloud Security & Governance
-- 📈 Operational Excellence
-- 🏢 Multi-Account AWS Architecture
+</div>
 
 ---
 
@@ -34,80 +26,89 @@ Specialized in:
 
 <div align="center">
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827)
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
-![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=111827)
+<img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
-![CKA](https://img.shields.io/badge/Kubernetes-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=111827)
+<img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## 🛠 Technology Stack
+## 💼 About Me
+
+```yaml
+Role: AWS Cloud Architect
+Focus:
+  - AWS Cloud Architecture
+  - Multi-account governance
+  - Terraform Infrastructure as Code
+  - Kubernetes Platform Engineering
+  - CI/CD Automation
+  - Security & Operational Excellence
+```
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform"/>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### DevOps & Automation
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash"/>
+
+### Systems & Tooling
+<img src="https://skillicons.dev/icons?i=linux,git,github"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Architecture Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### ☁️ AWS Multi-Account Landing Zone
-Enterprise cloud foundation architecture including:
+Enterprise cloud foundation architecture:
 
-- AWS Organizations
-- Organizational Unit design
-- SCP governance guardrails
-- Centralized logging
-- Security baseline controls
-- Shared services architecture
+✔ AWS Organizations  
+✔ SCP governance  
+✔ Centralized logging  
+✔ Shared services  
+✔ Security baseline controls  
 
----
+</td>
+
+<td width="50%">
 
 ### 🏗 Terraform Infrastructure Automation
-Reusable infrastructure modules for:
+Reusable IaC architecture:
 
-- VPC networking
-- EC2 deployments
-- Auto Scaling groups
-- Application Load Balancers
-- Route 53 DNS
-- IAM access management
-- RDS provisioning
+✔ VPC  
+✔ EC2  
+✔ ALB  
+✔ Auto Scaling  
+✔ IAM / Route53 / RDS  
 
----
-
-### ☸️ Kubernetes Platform Engineering
-Production-ready platform engineering for:
-
-- Amazon EKS cluster architecture
-- workload deployment automation
-- ingress management
-- monitoring integration
-- autoscaling strategy
-- cluster security hardening
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudbyvarun&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyvarun&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyvarun&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -117,40 +118,31 @@ Production-ready platform engineering for:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cloudbyvarun&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=cloudbyvarun&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Activity Graph
 
 <div align="center">
 
-![snake gif](https://github.com/cloudbyvarun/cloudbyvarun/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudbyvarun&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Professional Presence
+## 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
-
----
-
-## 📌 Architecture Principles
-
-```text
-Build secure by default
-Automate everything repeatable
-Design for scale and resilience
-Prefer simplicity over unnecessary complexity
-```
 
 ---
 
